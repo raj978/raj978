@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raj978
 - 👀 I’m interested in ... becoming a full stack Dev.
-- 🌱 I’m currently learning ... C/C++. 
+- 🌱 I’m currently learning ... WebDevelopment6. 
 - 💞️ I’m looking to collaborate on ...Python and Java Projects.
 - 📫 How to reach me ...Guptarajat978@gmail.com
 
