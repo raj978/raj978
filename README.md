@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... becoming a full stack Dev.
 - 🌱 I’m currently learning ... WebDevelopment. 
 - 💞️ I’m looking to collaborate on ...Python and Java Projects.
-- 📫 How to reach me ...Guptarajat978@gmail.com
+- 📫 How to reach me ...rmgupta@ucdavis.edu
 
 <!---
 raj978/raj978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
