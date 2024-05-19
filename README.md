@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raj978
 - 👀 I’m interested in ... becoming a full stack Dev.
 - 🌱 I’m currently learning ... WebDevelopment. 
-- 💞️ I’m looking to collaborate on ...Python and Java Projects.
+- 💞️ I’m looking to collaborate on ... interesting AI/ML projects.                      
 - 📫 How to reach me ...rmgupta@ucdavis.edu
 
 <!---
