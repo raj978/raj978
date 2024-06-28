@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-## My Skill Set  
+## Technologies
 <table><tr><td valign="top" width="33%">
 
 
