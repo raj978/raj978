@@ -85,7 +85,9 @@ You can click the Preview link to take a look at your changes.
 </a>
 <a href="https://instagram.com/rajattt.978" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
+  
+![Profile Views](https://komarev.com/ghpvc/?username=raj978&style=for-the-badge)
 </div>  
 
 <!---
