@@ -7,17 +7,8 @@ You can click the Preview link to take a look at your changes.
 ### <div align="center">👋 Hi, I'm Rajat, a developer 👨‍💻 coding since 2019 🚀</div>  
 
 <br>
-
   
-- 🌱 I’m currently learning WebDevelopment
-
-
-  
-- 💞️ I’m looking to collaborate on ... interesting AI/ML projects.
-
-
-  
-- 📫 How to reach me ...rmgupta@ucdavis.edu
+📫 How to reach me ...rmgupta@ucdavis.edu
 
 <br>
 
